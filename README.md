@@ -1,2 +1,2 @@
-site live at gawds.in/alpha
+site live at gawds.in
 © gawds@NIT Kurukshetra
